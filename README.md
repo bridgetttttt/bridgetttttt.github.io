@@ -12,7 +12,7 @@
   </head>
   <body>
     <h1 class="title">All About Nirvana!</h1>
-     <p>
+     <p style="text-align:center;">
       <img src="https://i.pinimg.com/564x/9c/eb/4b/9ceb4b06bae5f5fcb16c7bfe3b0c7aaf.jpg">
     </p>
   </body>
