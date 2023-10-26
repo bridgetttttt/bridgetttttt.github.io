@@ -4,7 +4,7 @@
   <head>
     <meta charset="utf-8">
     <style>
-      #title {
+      #title{
         text-align: center;
         }
     </style>
