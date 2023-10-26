@@ -3,9 +3,13 @@
 <html>
   <head>
     <meta charset="utf-8">
+    <style>
+      #title {
+        text-align: center;
+        }
+    </style>
   </head>
   <body>
-    <h1>St. John, USVI Travel Guide</h1>
-    <p>deez nuts</p>
+    <h1 id="title">St. John, USVI Travel Guide</h1>
   </body>
 </html>
