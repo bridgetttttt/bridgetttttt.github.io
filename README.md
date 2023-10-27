@@ -5,7 +5,7 @@
     <meta charset="utf-8">
     <style.css
       #title{
-        text-align: center;
+        align: center;
         }
       >
   </head>
