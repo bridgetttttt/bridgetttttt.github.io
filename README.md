@@ -3,11 +3,11 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <style>
+    <style.css>
       #title{
         text-align: center;
         }
-    </style>
+    </style.css>
   </head>
   <body>
     <h1 id="title">St. John, USVI Travel Guide</h1>
